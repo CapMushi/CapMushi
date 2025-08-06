@@ -59,18 +59,11 @@ Here are some of the technologies I've been working with:
 </div>
 
 📈 GitHub Stats:
+<br/>
 ![](https://github-readme-stats.vercel.app/api?username=CapMushi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CapMushi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CapMushi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=CapMushi&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapMushi&layout=compact&theme=dark" alt="Top Languages" />
-  </a>
-</div>
 
 
