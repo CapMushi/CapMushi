@@ -68,6 +68,3 @@ Here are some of the technologies I've been working with:
 </a>
 </div>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=CapMushi&color=blue" alt="Profile views" />
-</div>
