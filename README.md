@@ -9,7 +9,7 @@ I'm a passionate Full-Stack Developer and Computer Science student at FAST-NUCES
 Connect with me!
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mustafa-sajid-321744308/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-sajid-321744308/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafasajid68@gmail.com)
 
 💻 Tech Stack:
