@@ -60,7 +60,7 @@ Here are some of the technologies I've been working with:
 
 📈 GitHub Stats:
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/CapMushi/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=CapMushi&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
