@@ -2,7 +2,7 @@
 I'm a passionate Full-Stack Developer and Computer Science student at FAST-NUCES, Lahore. I love building things that solve real-world problems—whether it's a web app, a mobile experience, or an AI-powered tool.
 <br/>
 
-#🌐 Socials: 
+# 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin-username])
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email@example.com])
 <br/>
